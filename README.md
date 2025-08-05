@@ -3,9 +3,11 @@
 #### 介绍
 合宙air001芯片SDK和DEMO
 
-#### 软件架构
-软件架构说明
-
+#### 说明
+https://gitee.com/openLuat/luatos-soc-air001
+不知道为啥删库了,赶紧备份一下这里的
+官网介绍地址
+https://wiki.luatos.com/chips/air001/Air001-MDK.html
 
 #### 安装教程
 
