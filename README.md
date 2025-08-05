@@ -6,8 +6,8 @@
 #### 说明
 https://gitee.com/openLuat/luatos-soc-air001
 不知道为啥删库了,赶紧备份一下这里的
-官网介绍地址
-https://wiki.luatos.com/chips/air001/Air001-MDK.html
+
+https://wiki.luatos.com/chips/air001/Air001-MDK.html 官网介绍地址
 
 #### 安装教程
 
